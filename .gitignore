@@ -1,0 +1,23 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+.jupyter_env/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
